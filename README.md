@@ -46,15 +46,16 @@ The dataset contains Amazon order and shipping details with the following column
 - **B2B** – Business-to-Business order indicator  
 
 ---
-
 ## 📊 Dashboard Features
-- Total Sales, Total Quantity & Order Count KPIs
-- Date-wise and Status-wise Sales Analysis
-- Fulfilment & Sales Channel comparison
-- Category and Size-based Sales Breakdown
-- City-wise and State-wise Revenue Analysis
-- B2B vs Non-B2B Sales Comparison
-- Interactive slicers for Date, Status, Category, and Region
+- Total Sales Amount KPI with date range filter
+- Courier Status distribution (Shipped, On the Way, Cancelled, Unshipped)
+- Top 5 Product Categories by order count
+- Size-wise Order Analysis (XS to 6XL)
+- Fulfilment Partner Comparison (Amazon vs Merchant)
+- State-wise Order Distribution across India
+- Interactive date slicer for dynamic analysis
+- User-friendly visuals with drill-down capability
+
 
 ---
 
